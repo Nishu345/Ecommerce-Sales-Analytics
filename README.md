@@ -103,6 +103,33 @@ This project focuses on converting raw e-commerce data into meaningful informati
 * Add advanced customer analysis
 * Create additional Power BI pages
 * Add automated data refresh workflow
+* ## Business Insights & Recommendations
+
+### Key Business Insights
+
+1. **Electronics is the strongest category**
+   Electronics generates the highest sales among the available product categories, indicating strong customer demand.
+
+2. **Laptop is the top-performing product**
+   Laptop generates the highest product-wise sales, making it an important product for inventory and marketing decisions.
+
+3. **Pune is the highest-sales city**
+   Pune records the highest sales among the analyzed cities, indicating strong market demand in this location.
+
+4. **Return Rate is 25.29%**
+   Approximately one-fourth of orders are being returned. This indicates an area that requires further investigation.
+
+5. **Payment modes show different sales contributions**
+   COD, Wallet, NetBanking, UPI, and Card contribute differently to total sales, which can help optimize payment options and promotions.
+
+### Business Recommendations
+
+* Investigate the reasons behind product returns and work on reducing the **25.29% return rate**.
+* Maintain sufficient inventory for high-performing **Electronics products**.
+* Closely monitor **Laptop inventory** to avoid stock-outs.
+* Focus targeted marketing and promotional activities on the **Pune market**.
+* Monitor payment-mode performance and make popular payment options easily available to customers.
+
 
 ## Author
 
