@@ -96,6 +96,8 @@ The main objective of this project is to demonstrate an end-to-end **Data Analyt
 
 This project focuses on converting raw e-commerce data into meaningful information that can support business decision-making.
 
+ ## Business Insights & Recommendations
+ 
 ### Key Business Insights
 
 1. **Electronics is the strongest category**
@@ -129,7 +131,7 @@ This project focuses on converting raw e-commerce data into meaningful informati
 * Add advanced customer analysis
 * Create additional Power BI pages
 * Add automated data refresh workflow
-* ## Business Insights & Recommendations
+
 
 ## Author
 
